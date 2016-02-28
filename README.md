@@ -1,9 +1,10 @@
 # Node JS web server
 
-![express logo](http://codecondo.com/wp-content/uploads/2015/10/Express-Frameworks_785.png)
+![express logo](https://stormpath.com/images/blog/express-and-node.png)
 
 
 Accessible at <https://ag-webserver.herokuapp.com>
 
+Introduction to Express, Git, Heroku and MiddleWare
 
-Introduction to Express, Git, Heroku and 
+Coded by Arnav Gudibande

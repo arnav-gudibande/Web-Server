@@ -1,7 +1,9 @@
-# Web-Server
+# Node JS web server
 
-Node JS web server
+![express logo](http://codecondo.com/wp-content/uploads/2015/10/Express-Frameworks_785.png)
+
 
 Accessible at <https://ag-webserver.herokuapp.com>
 
-Made with Express Js and uses Git and Heroku.
+
+Introduction to Express, Git, Heroku and 
